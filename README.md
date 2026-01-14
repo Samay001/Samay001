@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola!! I am Samay Rathod,<br>🚀 Full-Stack Developer | Linux Enthusiast | Hackathon Survivor<br>Always curious, constantly learning. Passionate about turning ideas into reality and finding creative solutions under pressure. When I’m not coding, you’ll find me exploring music or planning my next concert escape. Ready to dive into the next big challenge!<br> <br>👯 I’m looking for full-time opportunities to contribute to innovative projects and grow in a dynamic environment.<br>🌱 I’m currently learning Sql and Spring Boot.
+Hola!! I am Samay Rathod,<br>🚀 Full-Stack Developer | Linux Enthusiast | Hackathon Survivor<br>Always curious, constantly learning. Passionate about turning ideas into reality and finding creative solutions under pressure. When I’m not coding, you’ll find me exploring music or planning my next concert escape. Ready to dive into the next big challenge!<br> <br>👯 I’m looking for full-time opportunities to contribute to innovative projects and grow in a dynamic environment.<br>🌱 
 
 
 ## 🌐 Socials:
